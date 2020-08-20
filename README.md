@@ -1,8 +1,10 @@
 ### Hi there 👋 Enigmatt here :neckbeard:
 📫 How to reach me:<br>
-  &nbsp; <img height="25" width="25" src="https://image.flaticon.com/icons/svg/733/733590.svg" /> https://www.youtube.com/Enigmatt_eu <br>
-  &nbsp; <img height="25" width="25" src="https://img.icons8.com/fluent/344/facebook-new.png" /> https://www.facebook.com/enigmatt.eu <br>
-  &nbsp; <img height="25" width="25" src="https://image.flaticon.com/icons/svg/95/95645.svg" /> enigmatt.eu@gmail.com
+<ul>
+  <img height="25" width="25" src="https://image.flaticon.com/icons/svg/95/95645.svg" /> &nbsp; enigmatt.eu@gmail.com <br>
+  <img height="25" width="25" src="https://image.flaticon.com/icons/svg/733/733590.svg" /> <a href="https://www.youtube.com/Enigmatt_eu" target="_blank">Click!</a><br>
+  <img height="25" width="25" src="https://img.icons8.com/fluent/344/facebook-new.png" /> <a href="https://www.facebook.com/enigmatt.eu" target="_blank">Click!</a> <br>
+</ul>
 
 <!--
 **enigmatt-pl/enigmatt-pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

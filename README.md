@@ -1,14 +1,8 @@
 ### Hi there 👋 Enigmatt here :neckbeard:
 📫 How to reach me:
+  https://www.youtube.com/Enigmatt_eu
+  https://www.facebook.com/enigmatt.eu
   enigmatt.eu@gmail.com
-
-<html>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gp4_24txJnY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI0XbyhCDmg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O1gkHioRp34" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</html>
 
 <!--
 **enigmatt-pl/enigmatt-pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

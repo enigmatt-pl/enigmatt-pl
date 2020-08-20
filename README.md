@@ -1,5 +1,4 @@
 ### Hi there 👋 Enigmatt here :neckbeard:
-📫 How to reach me:<br>
 <ul>
   <img height="25" width="25" src="https://image.flaticon.com/icons/svg/95/95645.svg" /> &nbsp; enigmatt.eu@gmail.com <br>
   <img height="25" width="25" src="https://image.flaticon.com/icons/svg/733/733590.svg" /> <a href="https://www.youtube.com/Enigmatt_eu" target="_blank">Click!</a><br>

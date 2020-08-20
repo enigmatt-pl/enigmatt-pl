@@ -1,7 +1,5 @@
-### Hi there 👋 Enigmatt here :neckbeard: &nbsp; <img height="25" width="25" src="https://image.flaticon.com/icons/svg/733/733590.svg" /> <a href="https://www.youtube.com/Enigmatt_eu" target="_blank">Click!</a>
-<ul>
-  <img height="25" width="25" src="https://image.flaticon.com/icons/svg/95/95645.svg" /> &nbsp; enigmatt.eu@gmail.com <br>
-</ul>
+### Hi there 👋 Enigmatt here :neckbeard: &nbsp;&nbsp; <img height="25" width="25" src="https://image.flaticon.com/icons/svg/733/733590.svg" /> <a href="https://www.youtube.com/Enigmatt_eu" target="_blank">Click!</a>
+<img height="25" width="25" src="https://image.flaticon.com/icons/svg/95/95645.svg" /> &nbsp; enigmatt.eu@gmail.com <br>
 
 <!--
 **enigmatt-pl/enigmatt-pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,6 @@
-### Hi there 👋 Enigmatt here :neckbeard:
+### Hi there 👋 Enigmatt here :neckbeard: &nbsp; <img height="25" width="25" src="https://image.flaticon.com/icons/svg/733/733590.svg" /> <a href="https://www.youtube.com/Enigmatt_eu" target="_blank">Click!</a>
 <ul>
   <img height="25" width="25" src="https://image.flaticon.com/icons/svg/95/95645.svg" /> &nbsp; enigmatt.eu@gmail.com <br>
-  <img height="25" width="25" src="https://image.flaticon.com/icons/svg/733/733590.svg" /> <a href="https://www.youtube.com/Enigmatt_eu" target="_blank">Click!</a><br>
-  <img height="25" width="25" src="https://img.icons8.com/fluent/344/facebook-new.png" /> <a href="https://www.facebook.com/enigmatt.eu" target="_blank">Click!</a> <br>
 </ul>
 
 <!--

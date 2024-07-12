@@ -2,7 +2,7 @@
 <br>
 
 ### Welcome 👋
-* 👂 My name is Mateusz, you can call me Mat
+* 👂 My name is Mateusz, people call me Mat
 * 👽 I am an ENTP Personality Type [Explorer, Inventor, Innovator]
 * 👨‍💻 I’m currently working with ecommerce and financial technologies
 * 💗 I love technology, nature and martial arts

@@ -14,7 +14,7 @@ enigmatt.eu@gmail.com
 <p align="left" dir="auto">
 <a href="https://www.ruby-lang.org/en/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg" alt="rust" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;
 <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://react.dev/" rel="nofollow"> <img src="https://shethink.in/wp-content/uploads/2021/07/react.js-img.png" alt="linux" width="80" height="40" style="max-width: 100%;"></a>
+<a href="https://react.dev/" rel="nofollow"> <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" alt="linux" width="80" height="40" style="max-width: 100%;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;
 <a href="https://www.gnu.org/software/bash/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;
 <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="max-width: 100%;"></a>
